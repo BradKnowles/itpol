@@ -1370,7 +1370,7 @@ other browsers will soon follow.
 
 #### Get a token capable of Fido U2F
 
-There are [many options available](http://www.dongleauth.info/dongles/) for
+There are [many options available](https://www.dongleauth.com/dongles/) for
 hardware tokens with Fido U2F support, but if you're already ordering a
 smartcard-capable physical device, then your best option is a Yubikey 4, which
 supports both.
@@ -1393,7 +1393,7 @@ where this functionality should be enabled are:
   authenticate using a Facebook account. You should 2-factor protect your
   Facebook account even if you do not use it.
 - Other sites, as you deem necessary. See
-  [dongleauth.info](http://www.dongleauth.info) for inspiration.
+  [dongleauth.com](https://www.dongleauth.com/dongles/) for inspiration.
 
 #### Configure TOTP failover, if possible
 
